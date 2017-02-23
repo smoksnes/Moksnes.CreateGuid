@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages
+/Moksnes.CreateGuid/obj/Debug
+/Moksnes.CreateGuid/bin/Debug
+/.vs/Moksnes.CreateGuid/v15/.suo
