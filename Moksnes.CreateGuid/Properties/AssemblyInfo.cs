@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Moksnes.CreateGuid")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Adds a guid to clipboard")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Sebastian Moksnes")]
 [assembly: AssemblyProduct("Moksnes.CreateGuid")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Sebastian Moksnes")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
