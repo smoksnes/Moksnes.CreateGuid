@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="Moksnes.CreateGuid.Sebastian Moksnes.8d0524e9-3728-45a1-a2c2-5694cb8b0923" Version="1.0" Language="en-US" Publisher="Sebastian Moksnes" />
-    <DisplayName>Moksnes.CreateGuid</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Identity Id="MoksnesCreateGuid" Version="1.0" Language="en-US" Publisher="smoksnes" />
+    <DisplayName>Moksnes CreateGuid</DisplayName>
+    <Description xml:space="preserve">Creates a guid and adds it to Clipboard. 'nuf said.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />

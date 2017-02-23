@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Moksnes.CreateGuid")]
 [assembly: AssemblyDescription("Adds a guid to clipboard")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sebastian Moksnes")]
+[assembly: AssemblyCompany("smoksnes")]
 [assembly: AssemblyProduct("Moksnes.CreateGuid")]
-[assembly: AssemblyCopyright("Sebastian Moksnes")]
+[assembly: AssemblyCopyright("smoksnes")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
